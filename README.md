@@ -23,3 +23,4 @@ acertadas que eviten accidentes.
 - Cuando los datos son errados, aunque tengamos un cómputo prístino nuestros resultados serán erróneos.
 - En pocas palabras: con datos errados las conclusiones serán erradas.
 
+En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babbage, si introduce en la máquina números incorrectos, la respuesta correcta saldrá'. Me cuesta trabajo apreciar la confusión de ideas quepuede provocar dichas preguntas.
