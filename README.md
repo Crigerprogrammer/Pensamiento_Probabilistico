@@ -24,3 +24,8 @@ acertadas que eviten accidentes.
 - En pocas palabras: con datos errados las conclusiones serán erradas.
 
 En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babbage, si introduce en la máquina números incorrectos, la respuesta correcta saldrá'. Me cuesta trabajo apreciar la confusión de ideas quepuede provocar dichas preguntas.
+
+### Imágenes engañosas
+- Las visualizaciones son muy importantes para entender un conjunto de datos.
+- Sin embargo, cuando se juega con la escala se puede llegar a conclusiones incorrectas
+- Nunca se debe confiar en una gráfica sin escalas o etiquetas
