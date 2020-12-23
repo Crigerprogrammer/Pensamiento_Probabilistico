@@ -35,3 +35,8 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Correlación no implica casualidad.
 - Pueden existir variables escondidas que generen la correlación
 - Después de esto, eso; entonces a consecuencia de esto, eso.
+
+### Prejuicio en el muestreo
+- Para que un muestreo pueda servir como base para la inferencia estadística tiene que ser aleatorio y representativo.
+- El prejuicio en el muestreo elimina la representividad de las muestras.
+- A veces conseguir muestras es difícil, por lo que se utiliza a la población de más fácil acceso (caso estudios universitarios)
