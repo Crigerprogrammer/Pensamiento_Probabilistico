@@ -29,3 +29,9 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Las visualizaciones son muy importantes para entender un conjunto de datos.
 - Sin embargo, cuando se juega con la escala se puede llegar a conclusiones incorrectas
 - Nunca se debe confiar en una gráfica sin escalas o etiquetas
+
+### Cum Hoc Ergo Propter Hoc
+- Dos variables están positivamente correlacionadas cuando se mueven en la misma dirección y negativamente correlacionadas cuando se mueven en direcciones opuestas.
+- Correlación no implica casualidad.
+- Pueden existir variables escondidas que generen la correlación
+- Después de esto, eso; entonces a consecuencia de esto, eso.
