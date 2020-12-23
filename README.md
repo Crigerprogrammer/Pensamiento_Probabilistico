@@ -17,3 +17,9 @@ tu vida personal.
 ### Inteligencia Artificial
 El Teorema de Bayes es central en el desarrollo de sistemas modernos de inteligencia artificial. Cuando un coche autónomo se encuentra navegando en las calles, tiene que identificar todos los objetos que se encuentran en su “campo de visión” y determinar cuál es la probabilidad de tener una colisión. Esta probabilidad se actualiza con cada movimiento de cada objeto y con el propio movimiento del vehículo autónomo. Esta constante actualización de probabilidades es lo que permite que los vehículos autónomos tomen decisiones
 acertadas que eviten accidentes.
+
+### GIGO (Garbage in, Garbage out)
+- La calidad de nuestros datos es igual de fundamental que la precisión de nuestros cómputos.
+- Cuando los datos son errados, aunque tengamos un cómputo prístino nuestros resultados serán erróneos.
+- En pocas palabras: con datos errados las conclusiones serán erradas.
+
