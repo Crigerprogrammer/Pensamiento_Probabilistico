@@ -50,3 +50,7 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Cuando no sabemos la cuenta total del cual se obtiene un porcentaje tenemos el riesgo de concluir falsos resultados.
 - Siempre es importante ver el contexto
 - Los porcentajes, en vacio, no significan mucho.
+**EJEMPLO**
+- Escuela A incrementó su rendimiento en 25%
+- Escuela B incrementó su rendimiento en 10%
+- Escuela C incrementó su rendimiento en 5%s
