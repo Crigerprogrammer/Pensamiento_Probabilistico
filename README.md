@@ -62,3 +62,6 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 ### Falacia de regresión
 - Muchos eventos fluctúan naturalmente, por ejemplo, la temperatura promedio de una ciudad, el rendimiento de un atleta, los rendimientos de un portafolio de inversión etc.
 - Cuando algo fluctúa y se aplican medidas correctivas se puede creer que existe un v+inculo de causalidad en lugar de una regresión a la media.
+
+## Machine Learning
+Es el campo de estudio que le da a las computadoras la habilidad de aprender sin ser explícitamente programadas
