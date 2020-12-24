@@ -79,3 +79,12 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
 - Permiten analizar un objeto desde una perspectiva matemática.
 - Los algoritmos de machine learning típicamente requieren representaciones numéricas para poder ejecutar el cómputo
 - Uno de los feature vectors más conocidos es la representación del color a través de RGB
+
+- Procesamiento de imágenes:
+    - Gradiantes, bordes, áreas, colores, etc.
+
+- Reconocimiento de voz:
+    - Distanciamiento de sonidos, nivel de ruido, razón ruido
+
+- Spam:
+    - Dirección IP, estructura de texto, frecuencia de palabras, encabezados. Etc
