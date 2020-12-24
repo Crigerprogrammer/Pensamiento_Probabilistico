@@ -45,3 +45,8 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Esta falacia se da cuando no se toma la aleatoriedad en consideración.
 - También sucede cuando uno se enfoca en la similitudes e ignora las diferencias.
 - Cuando fallamos al tener una hipótesis antes de recolectar datos estamos en alto riesgo de caer en esta falacia (muy común en Data Science)
+
+### Porcentajes Confusos
+- Cuando no sabemos la cuenta total del cual se obtiene un porcentaje tenemos el riesgo de concluir falsos resultados.
+- Siempre es importante ver el contexto
+- Los porcentajes, en vacio, no significan mucho.
