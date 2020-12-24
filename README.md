@@ -65,3 +65,11 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 
 ## Machine Learning
 Es el campo de estudio que le da a las computadoras la habilidad de aprender sin ser explícitamente programadas
+
+### Cuando utilizar Machine Learning
+- Machine Learning se utiliza cuando:
+    - Programar un algoritmo es imposible
+    - El problema es muy complejo o no se conocen algoritmos para resolverlo
+    - Ayuda a los humanos a entender patrones (data mining)
+- Aprendizaje supervisado vs no supervisado vs semisupervisado
+- Batch vs Online Learning
