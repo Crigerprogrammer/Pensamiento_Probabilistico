@@ -58,3 +58,7 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - En 1970, 12,5 millones de jóvenes vivían con sus padres.
 - En 2015 esta cifra se incrementó a 18,6 millones.
 - ¿Esto representa un incremento del 48%?
+
+### Falacia de regresión
+- Muchos eventos fluctúan naturalmente, por ejemplo, la temperatura promedio de una ciudad, el rendimiento de un atleta, los rendimientos de un portafolio de inversión etc.
+- Cuando algo fluctúa y se aplican medidas correctivas se puede creer que existe un v+inculo de causalidad en lugar de una regresión a la media.
