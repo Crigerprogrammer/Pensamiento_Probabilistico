@@ -54,3 +54,7 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Escuela A incrementó su rendimiento en 25%
 - Escuela B incrementó su rendimiento en 10%
 - Escuela C incrementó su rendimiento en 5%s
+**2DO EJEMPLO**
+- En 1970, 12,5 millones de jóvenes vivían con sus padres.
+- En 2015 esta cifra se incrementó a 18,6 millones.
+- ¿Esto representa un incremento del 48%?
