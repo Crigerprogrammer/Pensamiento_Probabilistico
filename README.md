@@ -73,3 +73,9 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
     - Ayuda a los humanos a entender patrones (data mining)
 - Aprendizaje supervisado vs no supervisado vs semisupervisado
 - Batch vs Online Learning
+
+### Features Vectors
+- Se utilizan para representar características simbólicas o numéricas llamadas features
+- Permiten analizar un objeto desde una perspectiva matemática.
+- Los algoritmos de machine learning típicamente requieren representaciones numéricas para poder ejecutar el cómputo
+- Uno de los feature vectors más conocidos es la representación del color a través de RGB
