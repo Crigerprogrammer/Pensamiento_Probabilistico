@@ -40,3 +40,8 @@ En dos ocasiones me han preguntado (miembros del parlamento) 'Disculpe, Sr. Babb
 - Para que un muestreo pueda servir como base para la inferencia estadística tiene que ser aleatorio y representativo.
 - El prejuicio en el muestreo elimina la representividad de las muestras.
 - A veces conseguir muestras es difícil, por lo que se utiliza a la población de más fácil acceso (caso estudios universitarios)
+
+### Falacia del francotirador de Texas
+- Esta falacia se da cuando no se toma la aleatoriedad en consideración.
+- También sucede cuando uno se enfoca en la similitudes e ignora las diferencias.
+- Cuando fallamos al tener una hipótesis antes de recolectar datos estamos en alto riesgo de caer en esta falacia (muy común en Data Science)
