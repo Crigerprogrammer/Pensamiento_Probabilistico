@@ -92,3 +92,9 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
 ### Métricas de distancia
 - Muchos de los algoritmos de machine learning pueden clasificarse como algoritmos de optimización
 - Lo que desean optimizar es una función que en muchas ocasiones se refiere a la distancia entre features
+
+### Agrupamiento
+- Es un proceso mediante el cual se agrupan objetos similares en clusters que los identifican.
+- Se clasifica como aprendizaje no supervisado ya que no requiere la utilización de etiquetas.
+- Permite entender la estructura de los datos y la similitud entre los mismos
+- Es utilizado en motores de recomendación, análisis de redes sociales, análisis de riego crediticio, clasificación de genes, riesgos médicos, etc. 
