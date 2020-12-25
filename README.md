@@ -88,3 +88,7 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
 
 - Spam:
     - Dirección IP, estructura de texto, frecuencia de palabras, encabezados. Etc
+
+### Métricas de distancia
+- Muchos de los algoritmos de machine learning pueden clasificarse como algoritmos de optimización
+- Lo que desean optimizar es una función que en muchas ocasiones se refiere a la distancia entre features
