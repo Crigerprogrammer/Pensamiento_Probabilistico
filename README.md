@@ -106,3 +106,10 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
     - Agrupa los dos clusters en uno nuevo
 - El output final es un dendrograma que muestra la relación entre objetos y grupos
 - Es importante determinar qué medida de distancia vamos a utilizar y los puntos a utilizar en cada cluster (linkage criteria)
+
+### Agrupamiento K-means
+- Es un algoritmo que agrupa utilizando centroides.
+- El algoritmo funciona asignando puntos al azar (K define el número inicial de clusters) y después:
+    - En cada iteración el punto se ajusta a su nuevo centroide y cada punto se recalcula con la distancia con con respecto de los centroides.
+    - Los puntos se reasignan al nuevo centro
+    - El algoritmo se repite de manera iterativa hasta que ya no existen mejoras
