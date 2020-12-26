@@ -132,3 +132,6 @@ Estos tipos de clasificadores se distinguen porque dividen el conjunto de datos 
 
 ### Regresión logística
 Estos algoritmos se parecen mucho a los clasificadores lineales, con la diferencia de que no se divide simplemente con una línea, sino con un gradiente que determina la probabilidad de que un punto pertenezca a una categoría u otra. Es decir, la gradiente determina la probabilidad de que un punto sea asignado a una categoría y mientras un dato se aleje más en una dirección será mayor la probabilidad de que pertenezca a una categoría.
+
+### Árboles de decisión
+Este tipo de algoritmos nos permiten generar una árbol que tenemos que recorrer y tomar decisiones cada vez que avanzamos en un nivel. Por ejemplo:
