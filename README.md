@@ -135,3 +135,9 @@ Estos algoritmos se parecen mucho a los clasificadores lineales, con la diferenc
 
 ### Árboles de decisión
 Este tipo de algoritmos nos permiten generar una árbol que tenemos que recorrer y tomar decisiones cada vez que avanzamos en un nivel. Por ejemplo:
+
+## CONCLUSIONES
+- El pensamiento probabilístico permite evaluar un mundo que es por su propia naturaleza no determinista
+- También permite incorporar evidencia para ajustar el modelo probabilístico
+- Los números no mienten, pero las personas que los usan pueden usarlos para mentir.
+- Machine learning permite que las computadoras generen modelos matemáticos sin necesidad de ser programadas explícitamente.
