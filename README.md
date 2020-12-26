@@ -126,3 +126,6 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
 - K se refiere a la cantidad de vecinos que se utilizarán para clasificar un ejemplo que aún no ha sido clasificado
 - Es sencillo de implementar y tiene aplicaciones en medicina, finanzas, agricultura, etc.
 - Es computacionalmente muy costoso y no sirve con datos de alta dimensionalidad.
+
+### Clasificadores lineales
+Estos tipos de clasificadores se distinguen porque dividen el conjunto de datos con una línea (que puede ser multidimensional dependiendo de la cantidad de features que hemos utilizado para definir a nuestros datos). Esto genera áreas dentro de nuestro espacio de búsqueda para que cuando coloquemos un nuevo dato podamos clasificarlo fácilmente.
