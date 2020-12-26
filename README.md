@@ -113,3 +113,9 @@ Es el campo de estudio que le da a las computadoras la habilidad de aprender sin
     - En cada iteración el punto se ajusta a su nuevo centroide y cada punto se recalcula con la distancia con con respecto de los centroides.
     - Los puntos se reasignan al nuevo centro
     - El algoritmo se repite de manera iterativa hasta que ya no existen mejoras
+
+## Clasificación
+- Es el proceso mediante el cual se predice la clase de cierto dato.
+- Es un tipo de aprendizaje supervisado ya que para que funcione, se necesitan etiquetas con los datos (labels).
+- Se utiliza en muchos dominios, incluyendo la medicina, aprobación crediticia, reconocimiento de imágenes, vehículos autónomos, entre otros.
+- Sigue dos pasos: aprendizaje (creación del modelo) y clasificación
